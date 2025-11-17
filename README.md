@@ -1,4 +1,4 @@
-# Hi, I'm Shagabhavani - The TeluguWebGuru 👋
+# Hi, I'm Shagabhavani
 Python Full-Stack Developer(Programming language) — FastAPI/Django • SQL, HTML,CSS,JAVASCRIPT
 
 🔭 Current project: account creation 
